@@ -1,0 +1,31 @@
+  body{
+    background-color: #FFF0E8;
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: #990033;
+    width: 10%;
+  }
+
+  @font-face {
+    src: url(fonts/RankingscapsRegular-MV8Re.otf);
+    font-family: 'KingCaps';
+  }
+  h1{
+    color: #990033;
+    font-family: 'KingCaps';
+    font-style: italic;
+  }
+
+  h2{
+    color: #CC0A1F;
+    font-family:  'KingCaps';
+  }
+
+  h3{
+    color: #DE5959;
+    font-family:  'KingCaps';
+  }
